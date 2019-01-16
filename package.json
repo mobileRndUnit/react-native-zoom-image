@@ -1,0 +1,33 @@
+{
+  "_args": [
+    [
+      "git+https://gitlab.intecracy.com/LabArchives/react-native-zoom-image.git",
+      "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives"
+    ]
+  ],
+  "_from": "git+https://gitlab.intecracy.com/LabArchives/react-native-zoom-image.git",
+  "_id": "react-native-zoom-image@git+https://gitlab.intecracy.com/LabArchives/react-native-zoom-image.git#f23891e5d6d45ae3f5437cc0f991e4f191125498",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-zoom-image",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://gitlab.intecracy.com/LabArchives/react-native-zoom-image.git",
+    "rawSpec": "git+https://gitlab.intecracy.com/LabArchives/react-native-zoom-image.git",
+    "saveSpec": "git+https://gitlab.intecracy.com/LabArchives/react-native-zoom-image.git",
+    "fetchSpec": "https://gitlab.intecracy.com/LabArchives/react-native-zoom-image.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://gitlab.intecracy.com/LabArchives/react-native-zoom-image.git#f23891e5d6d45ae3f5437cc0f991e4f191125498",
+  "_spec": "git+https://gitlab.intecracy.com/LabArchives/react-native-zoom-image.git",
+  "_where": "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives",
+  "deprecated": false,
+  "description": "Displaying photos with pinch-to-zoom",
+  "main": "index.js",
+  "name": "react-native-zoom-image",
+  "version": "1.0.1"
+}

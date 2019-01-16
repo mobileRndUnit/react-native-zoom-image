@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/Labarchives/app160817/mobile/LabArchives/node_modules/react-native-photo-view/android/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/gregorygl/.android/build-cache/2f5d013f30567afb4277414886c51e3d1fb5cee1/output/res/drawable-ldrtl-mdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives/node_modules/react-native-zoom-image/android/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/oleksiikolomatskiy/.android/build-cache/34b73ee6033680cdc868a91261271800d88445cb/output/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives/node_modules/react-native-zoom-image/android/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/oleksiikolomatskiy/.android/build-cache/34b73ee6033680cdc868a91261271800d88445cb/output/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/Labarchives/app160817/mobile/LabArchives/node_modules/react-native-photo-view/android/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/gregorygl/.android/build-cache/2f5d013f30567afb4277414886c51e3d1fb5cee1/output/res/drawable-ldrtl-mdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/Labarchives/app160817/mobile/LabArchives/node_modules/react-native-photo-view/android/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/gregorygl/.android/build-cache/2f5d013f30567afb4277414886c51e3d1fb5cee1/output/res/drawable-ldrtl-mdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/gregorygl/workspace/react-native/Labarchives/app160817/mobile/LabArchives/node_modules/react-native-photo-view/android/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/gregorygl/.android/build-cache/2f5d013f30567afb4277414886c51e3d1fb5cee1/output/res/drawable-ldrtl-mdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives/node_modules/react-native-zoom-image/android/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/oleksiikolomatskiy/.android/build-cache/34b73ee6033680cdc868a91261271800d88445cb/output/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    }
+]

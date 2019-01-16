@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/gregorygl/workspace/react-native/Labarchives/app160817/mobile/LabArchives/node_modules/react-native-photo-view/android/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/gregorygl/.android/build-cache/2f5d013f30567afb4277414886c51e3d1fb5cee1/output/res/values-w500dp/values-w500dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 54,
+                        "endOffset": 333
+                    }
+                }
+            }
+        ]
+    }
+]
